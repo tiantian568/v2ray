@@ -57,19 +57,17 @@ ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMFlXUmtOV014T0MwNU5tUm1MVFJ
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMFlXUmtOV014T0MwNU5tUm1MVFJpTmpBdFlUVXlNaTB6TVdJMVl6WmhOV1E1TXpN@free.2weradf.xyz:36641#7%7C%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%2001%20%7C%201x%20VN
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMFlXUmtOV014T0MwNU5tUm1MVFJpTmpBdFlUVXlNaTB6TVdJMVl6WmhOV1E1TXpN@free.2weradf.xyz:36671#7%7C%F0%9F%87%A7%F0%9F%87%B7%20%E5%B7%B4%E8%A5%BF%2001%20%7C%201x%20BR
 
-### clash免费节点订阅地址
-https://v2ray-clash.top/clash-subscription@a/2024-09-09-list-1.yaml
-https://v2ray-clash.top/clash-subscription@b/2024-09-09-list-2.yaml
-↓备用↓
-https://v2ray-clash.top/clash-subscription@c/2024-09-09-list-3.yaml
-https://v2ray-clash.top/@clash-subscription@d/2024-09-09-list-4.yaml
+#### 客户端支持
+Windows： Clash Verge / v2rayN / Clash for Windows / NekoRay / sing-box / clashN / Clash Verge Rev / Clash Nyanpasu
 
-### V2ray免费节点订阅地址
-https://v2ray-clash.top/v2ray-subscription@a/2024-09-09-list-1.txt
-https://v2ray-clash.top/v2ray-subscription@b/2024-09-09-list-2.txt
+macOS苹果电脑： ClashX / ClashX Pro / Stash / V2rayU / Clash Verge / Clash for Windows / Quantumult X / sing-box / Clash Nyanpasu / Clash Verge Rev
 
-### 通用base64订阅地址
-https://v2ray-clash.top/base64-subscription/2024-09-09-list-1.txt
+iOS苹果手机： Quantumult / Quantumult X / Shadowrocket / Stash / sing-box
 
-### sing-box免费订阅地址（适用于 1.8.0 以上）
-https://v2ray-clash.top/sing-box-subscription/2024-09-09-list-1.json 
+Android安卓手机： Clash for Android / Surfboard / v2rayNG / NekoBox for Android / sing-box
+
+路由器： OpenClash / PassWall2 / SSRplus
+
+节点解锁ChatGPT, Disney+, Netflix TikTok
+
+节点特色Clash,不限设备数, 免费试用, 性价比机场, 自研客户端
